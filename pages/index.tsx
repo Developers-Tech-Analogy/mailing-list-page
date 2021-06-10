@@ -43,7 +43,7 @@ export default function Home() {
               Never Miss an Update
             </h2>
             <p className="mt-6 text-center text-xl font-extrabold text-white">
-              Get exclusive early access to all our events adn news
+              Get exclusive early access to all our events and news
             </p>
           </div>
           <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
